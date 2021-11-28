@@ -19,6 +19,8 @@ I'm ambitious Java Developer from Poland. In my spare time I like taking photos 
 <br />
 
 ### Languages and Tools:
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
