@@ -1,6 +1,6 @@
 ### Hello World, I'm Wiola 👋
 
-## I'm ambitious Java Developer from Poland. In my spare time I like taking photos :camera:, I restore old furniture to relax and I have two dogs :dog:
+## I'm ambitious Java Developer from Poland. In my spare time I like taking photos :camera: and restore old furnitures. I have two dogs :dog:
 - 🔭 currently working on my library project :books:
 - 🌱 currently learning SpringBoot framework, especially application security topics 
 - 💬 Ask me about everything!
