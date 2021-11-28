@@ -1,4 +1,4 @@
-### Hello WOrld, I'm Wiola 👋
+### Hello World, I'm Wiola 👋
 
 ## I'm ambitious Java Developer from Poland. In my spare time I like taking photos :camera:, I restore old furniture to relax and I have two dogs :dog:
 - 🔭 currently working on my library project :books:
