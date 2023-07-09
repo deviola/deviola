@@ -1,6 +1,6 @@
 ### Hello World, I'm Wiola 👋
 
-I'm ambitious Java Developer from Poland. In my spare time I like taking photos, practice yoga or restore old furnitures. I have two dogs :dog:
+I'm ambitious Java Developer from Poland. In my spare time I like taking photos, taking long walks, swimming and reading books. I am also owner of a cute dog :dog:
 - 🔭 currently working on my library project :books:
 - 🌱 I am currently expanding my knowledge of SpringBoot framework (especially application security topics) and SQL
 - :muscle: challenge for 2023: learn HTML, CSS and JavaScript
@@ -8,7 +8,7 @@ I'm ambitious Java Developer from Poland. In my spare time I like taking photos,
 
 ### Connect with me:
 <a target="_blank" href="https://www.linkedin.com/in/wioletta-ostasz/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/wiolkal">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
